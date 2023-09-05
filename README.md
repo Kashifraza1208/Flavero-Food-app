@@ -1,6 +1,6 @@
 ## Frontend Project: Food Explorer Web App
 
-- **Live Demo**: [Link to Live Demo]([https://your-demo-url.com](https://flavero-food-app.vercel.app/))
+- **Live Demo** https://your-demo-url.com](https://flavero-food-app.vercel.app/
 - 
 - **Project Description**: Developed a dynamic web application for exploring and filtering a wide variety of food items. Leveraged modern frontend technologies to enhance the user experience and deliver an interactive platform.
 
